@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1301" height="696" viewBox="0 0 1301 696" role="img" aria-label="Chen Jun Ming - AI/ML Engineer">
+  <style>
+    text { font-family: ui-monospace, "SF Mono", "JetBrains Mono", "DejaVu Sans Mono", Menlo, Consolas, monospace; font-size: 14px; }
+    .art { fill: #3a332c; font-size: 8.0px; letter-spacing: 0; }
+    .hdr { fill: #a4632a; font-weight: 700; }
+    .k { fill: #a4632a; }
+    .v { fill: #2f6d99; }
+    .cc { fill: #b0a89b; }
+    .add { fill: #3f8f45; }
+    .del { fill: #c0432c; }
+    .title { fill: #6a6058; font-size: 12px; }
+  </style>
+  <rect width="1301" height="696" rx="12" fill="#f2eee7"/>
+  <rect x="1" y="1" width="1299" height="694" rx="11" fill="#fbf9f5" stroke="#e0d9cd"/>
+  <path d="M1 13a12 12 0 0 1 12-12h1275a12 12 0 0 1 12 12v23H1z" fill="#efeae1"/>
+  <line x1="1" y1="36" x2="1300" y2="36" stroke="#e0d9cd"/>
+  <circle cx="22" cy="18" r="5" fill="#d0553f"/>
+  <circle cx="40" cy="18" r="5" fill="#c9922f"/>
+  <circle cx="58" cy="18" r="5" fill="#5d8f4e"/>
+  <text x="650" y="23" class="title" text-anchor="middle">junming@github: ~</text>
+  <text x="34" y="92.0" class="art" xml:space="preserve"></text>
+  <text x="34" y="101.6" class="art" xml:space="preserve"></text>
+  <text x="34" y="111.2" class="art" xml:space="preserve">                                    =###=+#==+=    *+*@@*==++=</text>
+  <text x="34" y="120.8" class="art" xml:space="preserve">                                 =##@@@@@@@@@@@@@@@@@@@@@@@@@@@@#=  =</text>
+  <text x="34" y="130.4" class="art" xml:space="preserve">                           =*%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*=</text>
+  <text x="34" y="140.0" class="art" xml:space="preserve">                        =%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+</text>
+  <text x="34" y="149.6" class="art" xml:space="preserve">                     +#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%</text>
+  <text x="34" y="159.2" class="art" xml:space="preserve">                   +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#</text>
+  <text x="34" y="168.8" class="art" xml:space="preserve">                 +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#</text>
+  <text x="34" y="178.4" class="art" xml:space="preserve">                #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+</text>
+  <text x="34" y="188.0" class="art" xml:space="preserve">              +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="34" y="197.6" class="art" xml:space="preserve">              %@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="34" y="207.2" class="art" xml:space="preserve">             %@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="34" y="216.8" class="art" xml:space="preserve">            #@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@#</text>
+  <text x="34" y="226.4" class="art" xml:space="preserve">            @@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*</text>
+  <text x="34" y="236.0" class="art" xml:space="preserve">            @@@%@@@@%@@@@%@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="34" y="245.6" class="art" xml:space="preserve">           #@@@@@@@@@@@@@@@@@@@%@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@%%@@@@@@@@@@@@+</text>
+  <text x="34" y="255.2" class="art" xml:space="preserve">         =%@@@@@@@@@@@@@@@@@@@%%@%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@##@@@@@@@@@@@@@@</text>
+  <text x="34" y="264.8" class="art" xml:space="preserve">          %@@@@@@@@@@@@@@@@@@@@@%@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@%#@@@@@@@@@@@@+</text>
+  <text x="34" y="274.4" class="art" xml:space="preserve">          @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*=-:-====++*+===*%@@@@@@@@@@%</text>
+  <text x="34" y="284.0" class="art" xml:space="preserve">         %@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@%@%%#####*+-::=*####*****%*+++*%@@@@@@@@@#</text>
+  <text x="34" y="293.6" class="art" xml:space="preserve">         @@@@@@@@@@@@@@@@@@@%%%@@@@@@@*#++::::::::-==+###++++====***++=+%@@@@@@@@*</text>
+  <text x="34" y="303.2" class="art" xml:space="preserve">          %@@@@@@@@@@@@@@@@@@@@@@@@@@%*#+=====---==+++=:.....-===+++++==*@@@@@@@@%</text>
+  <text x="34" y="312.8" class="art" xml:space="preserve">           %@@@@@@@@@@@@@@%#@@%%#%%%*=--==++==--==+++=-:=#%@@#%%#*+======%@@@@@@@@=</text>
+  <text x="34" y="322.4" class="art" xml:space="preserve">            *@@@@@@@@@@@%+=:==-:.-+:..:-::-=---:-=+++=:%%*#*+=+**+=======+@@@@@%%%#</text>
+  <text x="34" y="332.0" class="art" xml:space="preserve">              ##@@@@@@@@*:-----::=**%%@%**-===---=++++=+==----=--=====+++=%@@%+-+%%</text>
+  <text x="34" y="341.6" class="art" xml:space="preserve">                 @@@@@@@#:-=--=+*%*=*##*+*++===-==++++========---=====+++++@@#=-=%*</text>
+  <text x="34" y="351.2" class="art" xml:space="preserve">                  #@@@@@@-----=++-:::::-=========++**++===============+++*+*##**+*=</text>
+  <text x="34" y="360.8" class="art" xml:space="preserve">                   #@@@@@=--====------==---==+++==+**#*+=--------======+++***++#+#-</text>
+  <text x="34" y="370.4" class="art" xml:space="preserve">                   :*@@@@*---====--=====----=++=====+*#**#*=::-----===++*****##**#</text>
+  <text x="34" y="380.0" class="art" xml:space="preserve">                    #%=@@*--=--------------+*+=-::-======*%#*=----====+******#+*#+</text>
+  <text x="34" y="389.6" class="art" xml:space="preserve">                    -#=+%#+==-----:::----=*+=-::--=+*##***#*+++=====+++******+***</text>
+  <text x="34" y="399.2" class="art" xml:space="preserve">                     =*--##+=----------=+*+=-=#%#**######*++=======++++**++**##+=</text>
+  <text x="34" y="408.8" class="art" xml:space="preserve">                      -+=++*+=-------===+=--=*#+=-=+-:-=====----====++**+**##%%=</text>
+  <text x="34" y="418.4" class="art" xml:space="preserve">                       -++***=============-------:-=====++++**#*==-=++*++*## +=</text>
+  <text x="34" y="428.0" class="art" xml:space="preserve">                         =++*+==============-----=+++*##%%%@@%*====++**+**%+</text>
+  <text x="34" y="437.6" class="art" xml:space="preserve">                          -*+=+======-==-==++*########***##*+====+++**++*#%</text>
+  <text x="34" y="447.2" class="art" xml:space="preserve">                           -**+=--====---=+**##***+=-===+++++++++++**+***#@=</text>
+  <text x="34" y="456.8" class="art" xml:space="preserve">                            +@+*+=-=====--=--------=+++===++++**+++**+**##%*</text>
+  <text x="34" y="466.4" class="art" xml:space="preserve">                             +*+ +*+================+++===++++++++********##</text>
+  <text x="34" y="476.0" class="art" xml:space="preserve">                                  -**+==+============--===+++++++*****#*+**%</text>
+  <text x="34" y="485.6" class="art" xml:space="preserve">                                    =*++===========--======+++++*****#*++**%*</text>
+  <text x="34" y="495.2" class="art" xml:space="preserve">                                     +#*+======------======++++**##***++++*#%</text>
+  <text x="34" y="504.8" class="art" xml:space="preserve">                                      **++++++==----=+====+++**###**+++++++*#+</text>
+  <text x="34" y="514.4" class="art" xml:space="preserve">                                      -*==+++++++++******#####*****+++++++++*%@+</text>
+  <text x="34" y="524.0" class="art" xml:space="preserve">                                     +++=======++++*************+++++++++++++*@#.:</text>
+  <text x="34" y="533.6" class="art" xml:space="preserve">                                   :#%+==-========------===+++++++==+=++++++*%%..:-:</text>
+  <text x="34" y="543.2" class="art" xml:space="preserve">                                  .:#*++=---========----==++++++++=======++*#*...:::-::::</text>
+  <text x="34" y="552.8" class="art" xml:space="preserve">                                 :..*@@#+----========-===+====+++=======+**+:....:..::::-::::::</text>
+  <text x="34" y="562.4" class="art" xml:space="preserve">                                :....*@%#=------==--=================++**+-.....:...:..::::.::::</text>
+  <text x="34" y="572.0" class="art" xml:space="preserve">                           :::::......:*%%*==---------------===+===++*+-............:...::::::::</text>
+  <text x="34" y="581.6" class="art" xml:space="preserve">                      ::::::.............=***++================+++=-:..............:::..:::...::</text>
+  <text x="34" y="591.2" class="art" xml:space="preserve">                    :::..::::...............:--=+++++++======++=:::...........:.....:.........::</text>
+  <text x="34" y="600.8" class="art" xml:space="preserve">               .:::::.......:::::...................:-=*+===+=:...:..........:..............:::.</text>
+  <text x="34" y="610.4" class="art" xml:space="preserve">           :::::..................:................:...+#*++-..........:...::...............::..</text>
+  <text x="525" y="83.0" class="row" xml:space="preserve"><tspan class="hdr">junming@github</tspan><tspan class="cc"> -—————————————————————————————————————————————————————————————————————-—-</tspan></text>
+  <text x="525" y="104.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">OS</tspan><tspan class="cc">: ....................... </tspan><tspan class="v">Windows 11, MacOS 26, Ubuntu 24.04</tspan></text>
+  <text x="525" y="125.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Uptime</tspan><tspan class="cc">: ................... </tspan><tspan class="v">29 years, 5 months, and 21 days</tspan></text>
+  <text x="525" y="146.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Host</tspan><tspan class="cc">: ..................... </tspan><tspan class="v">Modular Asset Management</tspan></text>
+  <text x="525" y="167.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Kernel</tspan><tspan class="cc">: ................... </tspan><tspan class="v">Software Engineer / AI Engineer</tspan></text>
+  <text x="525" y="188.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">IDE</tspan><tspan class="cc">: ...................... </tspan><tspan class="v">VSCode 1.127.0</tspan></text>
+  <text x="525" y="209.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Terminal</tspan><tspan class="cc">: ................. </tspan><tspan class="v">WezTerm</tspan></text>
+  <text x="525" y="230.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Harness</tspan><tspan class="cc">: .................. </tspan><tspan class="v">ClaudeCode, ZCode, Hermes Agent, OpenClaw</tspan></text>
+  <text x="525" y="272.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Languages</tspan><tspan class="cc">.</tspan><tspan class="k">Programming</tspan><tspan class="cc">: .... </tspan><tspan class="v">Python, R, Go, JavaScript</tspan></text>
+  <text x="525" y="293.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Languages</tspan><tspan class="cc">.</tspan><tspan class="k">Computer</tspan><tspan class="cc">: ....... </tspan><tspan class="v">HTML, MD, CSS, JSON, LaTeX, YAML, XML</tspan></text>
+  <text x="525" y="314.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Languages</tspan><tspan class="cc">.</tspan><tspan class="k">Human</tspan><tspan class="cc">: .......... </tspan><tspan class="v">English, Mandarin</tspan></text>
+  <text x="525" y="356.0" class="row" xml:space="preserve"><tspan class="hdr">- Education</tspan><tspan class="cc"> -————————————————————————————————————————————————————————————————————————-—-</tspan></text>
+  <text x="525" y="377.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Masters</tspan><tspan class="cc">: .................. </tspan><tspan class="v">MSc Computer Science (AI), Georgia Institute of Technology</tspan></text>
+  <text x="525" y="398.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Bachelors</tspan><tspan class="cc">: ................ </tspan><tspan class="v">BSc Economics (DS&amp;A), Singapore Management University</tspan></text>
+  <text x="525" y="419.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Certs</tspan><tspan class="cc">: .................... </tspan><tspan class="v">AWS SAA, AWS CCP, DeepLearning.AI (ML)</tspan></text>
+  <text x="525" y="461.0" class="row" xml:space="preserve"><tspan class="hdr">- Contact</tspan><tspan class="cc"> -——————————————————————————————————————————————————————————————————————————-—-</tspan></text>
+  <text x="525" y="482.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Email</tspan><tspan class="cc">.</tspan><tspan class="k">Personal</tspan><tspan class="cc">: ........... </tspan><tspan class="v">chenjm246@gmail.com</tspan></text>
+  <text x="525" y="503.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Email</tspan><tspan class="cc">.</tspan><tspan class="k">Work</tspan><tspan class="cc">: ............... </tspan><tspan class="v">j.chen@modularam.com</tspan></text>
+  <text x="525" y="524.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">LinkedIn</tspan><tspan class="cc">: ................. </tspan><tspan class="v">jun-ming-chen</tspan></text>
+  <text x="525" y="545.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Medium</tspan><tspan class="cc">: ................... </tspan><tspan class="v">@junming-chen</tspan></text>
+  <text x="525" y="587.0" class="row" xml:space="preserve"><tspan class="hdr">- GitHub Stats</tspan><tspan class="cc"> -—————————————————————————————————————————————————————————————————————-—-</tspan></text>
+  <text x="525" y="608.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Repos</tspan><tspan class="cc">: .................... </tspan><tspan class="v">11 {Contributed: 1}</tspan></text>
+  <text x="525" y="629.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Commits</tspan><tspan class="cc">: .................. </tspan><tspan class="v">222</tspan></text>
+  <text x="525" y="650.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Lines of Code</tspan><tspan class="cc">: ............ </tspan><tspan class="v">169,460</tspan> ( <tspan class="add">212,271++</tspan>, <tspan class="del">42,811--</tspan> )</text>
+  <text x="34" y="670.0" class="row" xml:space="preserve"><tspan class="k">~ $ ls -la ./credentials </tspan></text>
+  <rect x="245" y="659" width="8" height="14" fill="#a4632a"><animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></rect>
+</svg>

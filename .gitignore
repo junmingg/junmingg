@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+# The 1.3 MB studio photo portrait.py reads. portrait.txt is the committed
+# artifact, so the repo builds without it — drop the image back in here if you
+# ever need to regenerate the ASCII portrait.
+portrait-source.png
