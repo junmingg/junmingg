@@ -7,4 +7,13 @@
 
 **[chenjunming.com](https://chenjunming.com)** · [LinkedIn](https://www.linkedin.com/in/jun-ming-chen/) · [Medium](https://medium.com/@junming-chen) · [contact@chenjunming.com](mailto:contact@chenjunming.com)
 
-<sub>Generated: `python portrait.py > portrait.txt` redraws the ASCII portrait from `portrait-source.png`, `python stats.py` refreshes the GitHub counts, `python build.py` renders both SVGs. Credentials live in `INFO` in `build.py`; a daily Action keeps the stats current.</sub>
+<!--
+  Build notes (not rendered):
+    python portrait.py > portrait.txt   redraws the ASCII portrait; needs
+                                        portrait-source.png, which is gitignored
+    python stats.py                     refreshes the GitHub counts
+    python build.py                     renders both SVGs
+  Credentials live in INFO in build.py. A daily Action reruns stats.py and
+  build.py, so the counts stay current without touching this file.
+-->
+
