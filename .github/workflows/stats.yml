@@ -20,14 +20,14 @@ jobs:
         with:
           python-version: "3.12"
 
-      # ACCESS_TOKEN should be a fine-grained PAT scoped to all repositories
-      # with `Metadata: Read-only` — that is the entire permission the stats
-      # endpoints need, and it grants no write access anywhere. The default
-      # GITHUB_TOKEN cannot see private repos, so without the secret the counts
-      # silently drop to public-only. Neither script has dependencies.
+      # ACCESS_TOKEN is a fine-grained PAT scoped to all repositories with
+      # `Metadata: Read-only` — the entire permission the stats endpoints need,
+      # and no write access anywhere. It is required, not optional: the default
+      # GITHUB_TOKEN is an app installation token whose GraphQL `viewer` is not
+      # a User, so the query errors out rather than degrading to public-only.
       - name: Refresh stats
         env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN || github.token }}
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: python stats.py
 
       - name: Rebuild SVGs
