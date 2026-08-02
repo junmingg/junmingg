@@ -94,9 +94,9 @@
   <text x="525" y="524.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">LinkedIn</tspan><tspan class="cc">: ................. </tspan><tspan class="v">jun-ming-chen</tspan></text>
   <text x="525" y="545.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Medium</tspan><tspan class="cc">: ................... </tspan><tspan class="v">@junming-chen</tspan></text>
   <text x="525" y="587.0" class="row" xml:space="preserve"><tspan class="hdr">- GitHub Stats</tspan><tspan class="cc"> -—————————————————————————————————————————————————————————————————————-—-</tspan></text>
-  <text x="525" y="608.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Repos</tspan><tspan class="cc">: .................... </tspan><tspan class="v">11 {Contributed: 1}</tspan></text>
-  <text x="525" y="629.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Commits</tspan><tspan class="cc">: .................. </tspan><tspan class="v">222</tspan></text>
-  <text x="525" y="650.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Lines of Code</tspan><tspan class="cc">: ............ </tspan><tspan class="v">169,460</tspan> ( <tspan class="add">212,271++</tspan>, <tspan class="del">42,811--</tspan> )</text>
+  <text x="525" y="608.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Repos</tspan><tspan class="cc">: .................... </tspan><tspan class="v">12 {Contributed: 1}</tspan></text>
+  <text x="525" y="629.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Commits</tspan><tspan class="cc">: .................. </tspan><tspan class="v">223</tspan></text>
+  <text x="525" y="650.0" class="row" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="k">Lines of Code</tspan><tspan class="cc">: ............ </tspan><tspan class="v">170,170</tspan> ( <tspan class="add">212,981++</tspan>, <tspan class="del">42,811--</tspan> )</text>
   <text x="34" y="670.0" class="row" xml:space="preserve"><tspan class="k">~ $ ls -la ./credentials </tspan></text>
   <rect x="245" y="659" width="8" height="14" fill="#a4632a"><animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></rect>
 </svg>
