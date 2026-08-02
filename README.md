@@ -5,8 +5,6 @@
   </picture>
 </a>
 
-**[chenjunming.com](https://chenjunming.com)** · [LinkedIn](https://www.linkedin.com/in/jun-ming-chen/) · [Medium](https://medium.com/@junming-chen) · [contact@chenjunming.com](mailto:contact@chenjunming.com)
-
 <!--
   Build notes (not rendered):
     python portrait.py > portrait.txt   redraws the ASCII portrait; needs
